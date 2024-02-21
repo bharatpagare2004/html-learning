@@ -1,0 +1,11 @@
+.co{
+
+    background-image:url("box_img_1.jpg");
+    height:1100px;
+    width:500px;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:bottom center;
+    border:2px solid red;
+    background-attachment: scroll;
+}
